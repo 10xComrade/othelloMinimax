@@ -4,8 +4,7 @@ from time import sleep as delay
 
 """
 This game is developed by Sadra as known as KohoolateSen
-Feel free to contribute to this project 
-I'll be glad to know if there's any issue with this program 
+Feel free to contribute & let me know about potential project issues
 Enjoy :)
 """
 
