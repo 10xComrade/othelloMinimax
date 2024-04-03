@@ -1,15 +1,6 @@
 import copy
 from time import sleep as delay
 
-
-"""
-This game is developed by Sadra as known as KohoolateSen
-Feel free to contribute & let me know about potential project issues
-Enjoy :)
-"""
-
-
-
 # global variables implementation
 GREEN_COLOR_CODE = "\033[92m"
 YELLOW_COLOR_CODE = "\033[93m"
