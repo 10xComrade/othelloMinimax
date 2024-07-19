@@ -6,9 +6,17 @@ Feel free to contribute and share project issues.
 
 
 # 💭 How to play the game ?
-1. Just run othello.py like : 
+1. clone the project :
+```
+git clone https://github.com/10xComrade/othelloMinimax.git
+```
+2. change directory :
+```
+cd othelloMinimax
+```
+3. Just run othello.py like : 
 ```
 python3 othello.py
 ```
-2. Choose an option.
-3. Play !
+4. Choose an option.
+5. Play !
